@@ -1,2 +1,1 @@
-# gallery-by-react
-Gallery by React
+# galley-by-react
